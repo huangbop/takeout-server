@@ -1,0 +1,22 @@
+{
+  "name": "takeout-server",
+  "version": "1.0.0",
+  "description": "Takeout server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huangbop/takeout-server.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "Huang Bo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huangbop/takeout-server/issues"
+  },
+  "homepage": "https://github.com/huangbop/takeout-server"
+}
